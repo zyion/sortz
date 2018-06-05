@@ -1,0 +1,29 @@
+{
+  "name": "sortz",
+  "version": "1.0.0",
+  "description": "A collection of sorting algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "build": "webpack"
+  },
+  "author": "Zyion",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "webpack": "^4.10.2",
+    "webpack-cli": "^3.0.0"
+  },
+  "keywords": [
+    "sort",
+    "sorts",
+    "sorting",
+    "algorithm",
+    "algorithms"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
